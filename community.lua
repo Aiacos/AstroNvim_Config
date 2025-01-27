@@ -1,3 +1,4 @@
+  GNU nano 8.1                                                                                        .config/nvim/lua/community.lua                                                                                                    
 --if true then return {} end -- WARN: REMOVE THIS LINE TO ACTIVATE THIS FILE
 
 -- AstroCommunity: import any community modules here
@@ -16,4 +17,8 @@ return {
   { import = "astrocommunity.utility.noice-nvim" },
   --{ import = "astrocommunity.bars-and-lines.lualine-nvim" },
   --{ import = "astrocommunity.pack.nvchad-ui" },
+  { import = "astrocommunity.completion.codeium-vim" },
+  { import = "astrocommunity.color.ccc-nvim" },
+  { import = "astrocommunity.editing-support.neogen" },
+  { import = "astrocommunity.editing-support.todo-comments-nvim" },
 }
