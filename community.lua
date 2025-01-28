@@ -18,6 +18,7 @@ return {
   --{ import = "astrocommunity.pack.nvchad-ui" },
   { import = "astrocommunity.completion.codeium-vim" },
   { import = "astrocommunity.color.ccc-nvim" },
+  --{ import = "astrocommunity.color.twilight-nvim" },
   { import = "astrocommunity.editing-support.neogen" },
   { import = "astrocommunity.editing-support.todo-comments-nvim" },
   { import = "astrocommunity.media.drop-nvim" },
