@@ -21,6 +21,7 @@ return {
   { import = "astrocommunity.color.ccc-nvim" },
   { import = "astrocommunity.color.twilight-nvim" },
   { import = "astrocommunity.editing-support.neogen" },
+  { import = "astrocommunity.editing-support.refactoring-nvim" },
   { import = "astrocommunity.editing-support.todo-comments-nvim" },
   { import = "astrocommunity.media.drop-nvim" },
 }
