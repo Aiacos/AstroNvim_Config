@@ -24,4 +24,5 @@ return {
   { import = "astrocommunity.editing-support.refactoring-nvim" },
   { import = "astrocommunity.editing-support.todo-comments-nvim" },
   { import = "astrocommunity.media.drop-nvim" },
+  { import = "astrocommunity.media.codesnap-nvim" },
 }
