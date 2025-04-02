@@ -13,6 +13,7 @@ return {
   { import = "astrocommunity.pack.python-ruff" },
   { import = "astrocommunity.pack.docker" },
   --{ import = "astrocommunity.pack.cpp" },
+  { import = "astrocommunity.docker.lazydocker" },
   { import = "astrocommunity.utility.hover-nvim" },
   { import = "astrocommunity.scrolling.mini-animate" },
   { import = "astrocommunity.split-and-window.neominimap-nvim" },
