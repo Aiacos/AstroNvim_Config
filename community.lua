@@ -21,7 +21,7 @@ return {
   --{ import = "astrocommunity.bars-and-lines.lualine-nvim" },
   --{ import = "astrocommunity.pack.nvchad-ui" },
   { import = "astrocommunity.workflow.precognition-nvim" },
-  --{ import = "astrocommunity.completion.codeium-vim" },
+  { import = "astrocommunity.completion.codeium-vim" },
   { import = "astrocommunity.completion.codex-nvim" },
   { import = "astrocommunity.color.ccc-nvim" },
   { import = "astrocommunity.color.twilight-nvim" },
