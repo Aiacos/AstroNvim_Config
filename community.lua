@@ -22,7 +22,7 @@ return {
   --{ import = "astrocommunity.pack.nvchad-ui" },
   { import = "astrocommunity.workflow.precognition-nvim" },
   { import = "astrocommunity.completion.codeium-vim" },
-  { import = "astrocommunity.completion.codex-nvim" },
+  --{ import = "astrocommunity.completion.codex-nvim" },
   { import = "astrocommunity.color.ccc-nvim" },
   { import = "astrocommunity.color.twilight-nvim" },
   { import = "astrocommunity.editing-support.neogen" },
