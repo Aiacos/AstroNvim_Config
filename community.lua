@@ -34,9 +34,3 @@ return {
   { import = "astrocommunity.markdown-and-latex.markview-nvim" },
   { import = "astrocommunity.test.neotest" },
 }
-
-return {
-  opt = {
-    exrc = true,  -- Enable .nvim.lua
-  },
-}
