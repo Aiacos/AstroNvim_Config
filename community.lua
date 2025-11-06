@@ -37,6 +37,6 @@ return {
 
 return {
   opt = {
-    exrc = true,  -- Abilita .nvim.lua
+    exrc = true,  -- Enable .nvim.lua
   },
 }
